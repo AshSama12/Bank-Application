@@ -1,8 +1,8 @@
 # Bank-Application
 Simple Java Bank Application
-This is a basic banking application implemented in Java as part of a learning project. The application allows users to perform essential banking operations such as add a bank accounts, depositing money, and withdrawing funds. It serves as a fundamental demonstration of object-oriented programming concepts and basic Java functionalities.
+This is a basic banking application implemented in Java as part of a learning project. The application allows users to perform essential banking operations such as adding a bank account, depositing money, and withdrawing funds. It serves as a fundamental demonstration of object-oriented programming concepts and basic Java functionalities.
 
-Features:
+# Features:
 Create Bank Accounts: Users can create new bank accounts by providing necessary details such as account number, account holder's name, and initial balance.
 
 Deposit Money: Deposits can be made into existing accounts. Users can specify the account number and the amount to be deposited.
